@@ -12,7 +12,7 @@
 
 ### Experimental Configuration
 
-  To verify the effectiveness of our Adaptive Weight Module (AWM) and the advantages of our one-stage network compared to SOTA two-stage methods, we re-conduct ablation experiment, originally shown in **Section 3.6** in the submited version, accroding to suggestions of **Reviewer <font color=red>06xx</font>** and **Reviewer <font color=red>0Exx</font>**.
+  To verify the effectiveness of our Adaptive Weight Module (AWM) and the advantages of our one-stage network compared to SOTA two-stage methods, we re-conduct ablation experiment, originally shown in **Section 3.6** in the submited version, accroding to suggestions of **Reviewer $\color{red}{06xx}$** and **Reviewer $\color{red}{0Exx}$**.
 
   First, we set&#x20;
 

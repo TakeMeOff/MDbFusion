@@ -29,5 +29,5 @@ in **Equ.4**, which means the visible features and infrared features have the sa
 ### Results Analysis
 
 *   As shown in **Fig. 4(c)** and **Table 3**, the result  without AWM has worse visual quality, losing  a certain amount of infrared information.
-*   As shown in **Fig. 4(d)-(e)** and **Table 3**, the "Fusion then Deblurring" method fails to recover clear edges. Because the process of fusion incorporates infrared information including much noise, which makes deblurring network hard to predict potential sharp image correctly. At the same time, the "Deblurring then Fusion" method has lower indicators since such two-stage methods compress and reconstruct images twice, losing more key information than our one-stage ones.
+*   As shown in **Fig. 4(d)-(e)** and **Table 3**, the "Fusion then Deblurring" method fails to recover clear edges. Because the process of fusion incorporates infrared information including much noise, which makes deblurring network hard to predict potential sharp image correctly. At the same time, the "Deblurring then Fusion" method has lower indicators since such two-stage methods compress and reconstruct images twice, losing more key information than our one-stage one.
 

@@ -20,7 +20,7 @@
 W_{vi}^{1:N} = W_{if}^{1:N} = 0.5 \qquad\qquad\qquad\qquad(4)
 ```
 
-in **Equ.4**, which means the visible features and infrared features have the same contribution. The results are shown in the Fig. 4 and **Table 3**.
+in **Equ.4**, which means the visible features and infrared features have the same contribution. The results are shown in the **Fig. 4** and **Table 3**.
 
   Second, to prove motion deblurring process has a positive impact on the fusion result and prove the one-stage method outperforms two-stage method, we conduct two experiments with two processing sequences, namely "Deblurring then Fusion" and "Fusion then Deblurring". It's noted that our network is a unified structure that cannot be strictly divided into two independent parts, so we delete fusion decoder and make rest of structue as deblurring network. Then, we choose SwinFusion \[12] as fusion network, because it has good performance accroding to **Section 3.5**.
 

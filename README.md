@@ -2,7 +2,7 @@
 
 We have careflly studied the reviewers' comments, thanks to their kind consideration of our manuscript.
 
-In response to the experimental suggestions, we have reconducted the ablation experiments, and the experimental configurations as well as results analysis are presented as follows:
+In response to the experiment suggestions, we have reconducted the ablation experiments, and the experiment configurations as well as results analysis are presented as follows:
 
 ## Supplementary Experiment
 
@@ -10,7 +10,7 @@ In response to the experimental suggestions, we have reconducted the ablation ex
 
 ![Quantitative Result](https://github.com/TakeMeOff/MDbFusion/blob/main/fig/Quantitative%20Experiment.png)
 
-### Experimental Configuration
+### Experiment Configurations
 
 To verify the effectiveness of our Adaptive Weight Module (AWM) and the advantages of our one-stage network compared to state-of-the-art SOTA two-stage methods, we have reconducted ablation experiments, originally presented in **Section 3.6** in the submited version, according to suggestions of **Reviewer 06xx** and **Reviewer 0Exx**.
 

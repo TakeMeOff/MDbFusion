@@ -4,7 +4,7 @@ We have careflly studied the reviewers' comments, thanks to their kind considera
 
 In response to the experiment suggestions, we have reconducted the ablation experiments, and the experiment configurations as well as results analysis are presented as follows:
 
-## Supplementary Experiments
+## Supplementary Experiment
 
 <div align="center">
   

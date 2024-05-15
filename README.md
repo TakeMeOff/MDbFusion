@@ -7,11 +7,15 @@ In response to the experiment suggestions, we have reconducted the ablation expe
 ## Supplementary Experiment
 
 <div align="center">
-![Qualitative Result](https://github.com/TakeMeOff/MDbFusion/blob/main/fig/Qualitative%20Experiment.png)
+  
+  ![Qualitative Result](https://github.com/TakeMeOff/MDbFusion/blob/main/fig/Qualitative%20Experiment.png)
+
 </div>
 
 <div align="center">
-![Quantitative Result](https://github.com/TakeMeOff/MDbFusion/blob/main/fig/Quantitative%20Experiment.png)
+  
+  ![Quantitative Result](https://github.com/TakeMeOff/MDbFusion/blob/main/fig/Quantitative%20Experiment.png)
+
 </div>
 
 ### Experiment Configurations

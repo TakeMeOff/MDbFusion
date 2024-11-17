@@ -12,7 +12,7 @@ The overall structure of image fusion framework capable for motion deblurring (M
 
 The processes of training MDbFusion are divided into two stages:
 
-1.  First, Train the encoder-decoder structure with GoPro Datasets. Uses can download training dataset from below website:
+1.  First, Train the encoder-decoder structure with GoPro Datasets. Users can download training dataset from below website:
 
     [Publications Datasets CV | Seungjun Nah](https://seungjunnah.github.io/Datasets/gopro.html).&#x20;
 

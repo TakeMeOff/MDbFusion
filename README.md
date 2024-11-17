@@ -19,7 +19,7 @@ The processes of training MDbFusion are divided into two stages:
     Then, run `train_derblur()` in `train.py`.
 
 
-2.  &#x20;Second, train the whole network struture with simulated datasets based on LLVIP datasets. The LLVIP datasets can be download from below website:
+2.  &#x20;Second, train the whole network structure with simulated datasets based on LLVIP datasets. The LLVIP datasets can be download from below website:
 
     [LLVIP: A Visible-infrared Paired Dataset for Low-light Vision](https://bupt-ai-cz.github.io/LLVIP/)
 
